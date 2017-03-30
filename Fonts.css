@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Kontur-Iconic eco-20px';
+    src: url('Kontur-Iconic-eco-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kontur-Iconic eco!20px';
+    src: url('Kontur-Iconic-eco-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kontur-Iconic';
+    src: url('Kontur-Iconic-eco-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
